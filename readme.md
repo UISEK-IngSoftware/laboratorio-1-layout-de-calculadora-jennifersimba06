@@ -7,7 +7,7 @@
 
 - **Nombre completo**: Jennifer Adelita Simba Alquinga
 - **Carrera**: Ing. Software
-- **Fecha de entrega**: 23/04/2026
+- **Fecha de entrega**: 16/04/2026
 
 ---
 
